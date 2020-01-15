@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/dkflix/static/js/main.71b4ef37.chunk.js",
+    "main.js.map": "/dkflix/static/js/main.71b4ef37.chunk.js.map",
+    "runtime-main.js": "/dkflix/static/js/runtime-main.3cd6c952.js",
+    "runtime-main.js.map": "/dkflix/static/js/runtime-main.3cd6c952.js.map",
+    "static/js/2.03fbf0ae.chunk.js": "/dkflix/static/js/2.03fbf0ae.chunk.js",
+    "static/js/2.03fbf0ae.chunk.js.map": "/dkflix/static/js/2.03fbf0ae.chunk.js.map",
+    "index.html": "/dkflix/index.html",
+    "precache-manifest.9e5038b3fd7143eaada2fad1019b66f7.js": "/dkflix/precache-manifest.9e5038b3fd7143eaada2fad1019b66f7.js",
+    "service-worker.js": "/dkflix/service-worker.js",
+    "static/js/2.03fbf0ae.chunk.js.LICENSE": "/dkflix/static/js/2.03fbf0ae.chunk.js.LICENSE",
+    "static/media/noPosterSmall.png": "/dkflix/static/media/noPosterSmall.87a0eb6a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cd6c952.js",
+    "static/js/2.03fbf0ae.chunk.js",
+    "static/js/main.71b4ef37.chunk.js"
+  ]
+}
